@@ -16,8 +16,6 @@ I'm really excited about the possibilities of Artificial Intelligence and how it
 - **Machine Learning**: TensorFlow, Keras, scikit-learn 
 - **Deep Learning**: Neural Networks, CNNs, RNNs,LSTMs
 - **Computer Vision**: OpenCV, Image Processing
-- **Data Science**: Data Analysis, Data Visualization
-- **Tools**: Jupyter, Git
 
 
 ## 📚 Education
